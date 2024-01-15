@@ -272,7 +272,7 @@ question_data = [{
     {"question126":"beeilen sich, hat beeilt",
      "correct_answer":"True"},
     {"question127":"Du musst deine Ausbildung auf jeden Fall beenden. Hat beendet",
-     "correct_answer":"True"}
+     "correct_answer":"True"},
     {"question128":"Begründen. Hat begründet",
      "correct_answer":"True"},
     {"question129":"Beraten. Hat berat",
