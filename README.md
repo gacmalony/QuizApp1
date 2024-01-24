@@ -6,6 +6,8 @@ Has a locale repository for words(Python file), You can add which word you want 
 If youre not sure, just click red marked box and program will translate this word for you and show on the output area. Additionally will save as json format in another Python file. 
 With cool interface ready to use. Basic and functional!
 
+Everything in this app, like UI or other functionality created by me
+
 
 
 ![Screenshot 2024-01-24 134722](https://github.com/gacmalony/QuizApp1/assets/154236584/4ab74b6d-9281-47e5-8c01-51537aaa26dc)
