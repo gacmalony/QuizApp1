@@ -2,7 +2,7 @@ Hi everyone im Kaan, i wrote this project not so complex.
 Basically i wanted to use an app to learn German more efficiently . But i couldnt find an app for free and that app basically helping to my aims.
 I used this project a few Months and i took the German B1 certificate.
 
-Has a locale repository for words(Python file), You can add which word you want manually, programm will make "TRANSLATE" automatically and if u dont know the word will save automatically. When you run, App will test you with tons words , and if you know the answer just click to the green Marked Box and program will do nothing about this word.
+Has a locale repository for words(Python file), You can add which word you want manually, programm will "TRANSLATE" automatically and if u dont know the word will save automatically. When you run, App will test you with tons words , and if you know the answer just click to the green Marked Box and program will do nothing about this word.
 If youre not sure, just click red marked box and program will translate this word for you and show on the output area. Additionally will save as json format in another Python file. 
 With cool interface ready to use. Basic and functional!
 
