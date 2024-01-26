@@ -26,6 +26,10 @@ I TRANSLATED TO TURKISH, YOU CAN CHANGE THE TARGET LANGUAGE EASILY!
 ![Screenshot 2024-01-24 134831](https://github.com/gacmalony/QuizApp1/assets/154236584/c440ecfb-b8ef-4db2-b4a2-28cf58375e33)
 
 
+
+If you dont know the words, Program saves in another file. When user finish the quiz, app add "FINISHED PROJECT" to end of unknown words.
+
+
 ![Screenshot 2024-01-24 134845](https://github.com/gacmalony/QuizApp1/assets/154236584/a7df704f-d228-4d72-9de6-bd2b44919940)
 
 
