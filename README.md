@@ -1,4 +1,4 @@
-Hi everyone im Kaan, i wrote this project not so complex. 
+Hi everyone im Kaan, i made this project does not complex. 
 Basically i wanted to use an app to learn German more efficiently . But i couldnt find an app for free and that app basically helping to my aims.
 I used this project a few Months and i took the German B1 certificate.
 
