@@ -1,10 +1,16 @@
-Hi everyone im Kaan, i made this project does not complex. 
-Basically i wanted to use an app to learn German more efficiently . But i couldnt find an app for free and that app basically helping to my aims.
-I used this project a few Months and i took the German B1 certificate.
+Hi everyone I'm Kaan, I made this project not complex.
 
-Has a locale repository for words(Python file), You can add which word you want manually, programm will "TRANSLATE" automatically and if u dont know the word will save automatically. When you run, App will test you with tons words , and if you know the answer just click to the green Marked Box and program will do nothing about this word.
-If youre not sure, just click red marked box and program will translate this word for you and show on the output area. Additionally will save as json format in another Python file. 
-With cool interface ready to use. Basic and functional!
+Basically, I wanted to use an app to learn German more efficiently. But I couldn't find an app for free and i made an App. And this app basically helped to my aims. 
+
+I used this app for a month and I took the German B1 certificate.
+
+Has a locale repository for words(Python file), You can add which word you want manually, the program will "TRANSLATE" automatically, and if you don't know the word will save automatically. 
+
+When you run, the App will test you with tons of words, and if you know the answer just click on the green Marked Box and the program will do nothing about this word. 
+
+If you are not sure, just click the red marked box and the program will translate this word for you and show it in the output area. 
+
+Additionally will save as JSON format in another Python file. With a cool interface ready to use. Basic and functional!
 
 Everything in this app, like UI or other functionality created by me
 
